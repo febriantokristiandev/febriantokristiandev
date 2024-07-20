@@ -25,5 +25,5 @@ Thanks for stopping by! 🚀
 
 Happy coding! 😎
 
-- **Febrianto Kristian**
-  Feel free to adjust or add anything to make it more personal!
+ 
+Feel free to adjust or add anything to make it more personal!
