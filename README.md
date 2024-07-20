@@ -13,7 +13,7 @@ I spent 3 awesome years working as a web developer, and now I'm diving into the 
 
 ### What You'll Find Here 🌟
 
-- Cool projects and experiments with Python and JavaScript.
+- Just projects that I work on during my free time, whether it's research projects or learning experiments. I don’t stick to just one programming language, so expect a variety of stuff! 😄
 - A mix of coding challenges, tools, and maybe a bit of AI stuff.
 
 ### Let's Connect! 🌐
