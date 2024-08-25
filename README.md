@@ -19,6 +19,7 @@ I spent 3 awesome years working as a web developer, and now I'm diving into the 
 ### Let's Connect! 🌐
 
 - **Email**: [febriytonly@gmail.com](mailto:febriytonly@gmail.com)
+- **Telegram**: [@thanoswasnotavillain](https://t.me/thanoswasnotavillain)
 - Feel free to drop me a message if you want to chat about tech, coding, or anything else!
 
 Thanks for stopping by! 🚀
